@@ -15,6 +15,8 @@
   <img src="https://komarev.com/ghpvc/?username=12-web&style=flat-square&color=blue" alt=""/>
 </div>
 
+### :hammer_and_wrench: Languages and Tools :
+
 
 <!--
 **12-web/12-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
