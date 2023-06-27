@@ -1,4 +1,3 @@
-### Hi there 👋
 <div id="header" align="center">
   <img src="https://avatars.githubusercontent.com/u/60097191?v=4" width="100"/>
   <div id="badges">
@@ -19,8 +18,6 @@
 ---
 
 ### :man_technologist: About Me :
-
-**12-web/12-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
