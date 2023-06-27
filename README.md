@@ -3,13 +3,13 @@
   <img src="https://avatars.githubusercontent.com/u/60097191?v=4" width="100"/>
   <div id="badges">
   <a href="t.me/anatoliychudnov">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://m.vk.com/anatoliychudnov">
     <img src="https://img.shields.io/badge/VK-blue?style=flat&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
    <a href="https://www.codewars.com/users/12-web">
-    <img src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
+    <img src="https://img.shields.io/badge/Codewars-black?style=flat&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
     
 </div>
