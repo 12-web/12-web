@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div id="header" align="center" display="flex">
+<div id="header" align="center" style="display: flex;">
   <img src="https://avatars.githubusercontent.com/u/60097191?v=4" width="100"/>
   <div id="badges">
   <a href="https://t.me/anatoliychudnov">
