@@ -8,6 +8,9 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
+   <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
+  </a>
     
 </div>
   <img src="https://komarev.com/ghpvc/?username=12-web&style=flat-square&color=blue" alt=""/>
