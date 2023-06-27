@@ -48,11 +48,7 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
-<div align="center">
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=12-web&light=dark&background=ffffff)](https://git.io/streak-stats)
-</div>
 
-<div align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12-web&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
