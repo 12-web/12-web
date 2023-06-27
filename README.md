@@ -2,13 +2,13 @@
 <div id="header" align="center">
   <img src="https://avatars.githubusercontent.com/u/60097191?v=4" width="100"/>
   <div id="badges">
-  <a href="your-youtube-URL">
+  <a href="t.me/anatoliychudnov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img bordeRadius="30px" src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
+  <a href="https://m.vk.com/anatoliychudnov">
+    <img src="https://img.shields.io/badge/VK-blue?style=social&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
-   <a href="your-twitter-URL">
+   <a href="https://www.codewars.com/users/12-web">
     <img src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
     
