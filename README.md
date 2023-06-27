@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://m.vk.com/anatoliychudnov">
-    <img src="https://img.shields.io/badge/VK-blue?style=social&logo=VK&logoColor=white" alt="VK Badge"/>
+    <img src="https://img.shields.io/badge/VK-blue?style=plastic&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
    <a href="https://www.codewars.com/users/12-web">
     <img src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
