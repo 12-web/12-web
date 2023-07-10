@@ -17,22 +17,18 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: Обо мне :
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Работаю над учебными проектами в Яндекс.Практикуме и несколькими коммерческими проектами в составе небольшой команды
+- 🌱 Активно изучаю и практикую JS, React и TS
+- 👯 Хочу работать с большими проектами, чтобы постичь дзен в веб-разработке
+- 🤔 Стремлюсь к идеальному освоению технологий веб-разработки, но идеал нам только снится...
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Мой стек :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -44,7 +40,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :fire: My Stats :
+### :fire: Моя статистика :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=12-web&light=dark&background=ffffff)](https://git.io/streak-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12-web&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
