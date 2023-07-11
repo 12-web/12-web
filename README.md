@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/60097191?v=4" width="100"/>
   <div id="badges">
   <a href="https://t.me/anatoliychudnov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
