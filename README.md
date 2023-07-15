@@ -39,7 +39,7 @@
 
 ### :hammer_and_wrench: Codewars :
 
-![Codewars](https://github.r2v.ch/codewars?user=12-web)
+![Codewars](https://github.r2v.ch/codewars?user=Anatoliy Chudnov)
 
 ---
 
