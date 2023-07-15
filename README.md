@@ -39,7 +39,7 @@
 
 ### :hammer_and_wrench: Codewars :
 
-![Codewars](https://github.r2v.ch/codewars?user=(12-web)&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user='12-web'&stroke=%23BB432C)
 
 ---
 
