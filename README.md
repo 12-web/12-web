@@ -37,6 +37,12 @@
 
 ---
 
+### :hammer_and_wrench: Codewars :
+
+![Codewars](https://github.r2v.ch/codewars?user=12-web&stroke=COLOR)
+
+---
+
 ### :fire: Моя статистика :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=12-web&light=dark&background=ffffff)](https://git.io/streak-stats)
 
