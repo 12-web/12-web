@@ -41,4 +41,6 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=12-web&light=dark&background=ffffff)](https://git.io/streak-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12-web&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/9728c65cd182bca235e8f87a6c9c26e016f25d104dbd1f877b33aaf9bbcc48b0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d636163747973" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=12-web" style="max-width: 100%;"></a>
 
